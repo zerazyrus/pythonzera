@@ -1,0 +1,16 @@
+{
+    "region_search": {
+        "region_search_fishing": {
+            "left": 871,
+            "top": 410,
+            "width": 406,
+            "height": 575
+        },
+        "region_search_balo": {
+            "left": 2010,
+            "top": 512,
+            "width": 544,
+            "height": 911
+        }
+    }
+}
